@@ -3,4 +3,4 @@ home page of the course: https://ocw.mit.edu/courses/electrical-engineering-and-
 
 These are my answers to assignments of the course.
 
-You can contact with me by e-mail. eboran991@gmail.com
+You can contact with me via e-mail. eboran991@gmail.com
